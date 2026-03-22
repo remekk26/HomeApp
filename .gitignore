@@ -1,0 +1,8 @@
+# Binary
+homelab-dashboard
+
+# Data
+services.json
+
+# Environment
+.env*
